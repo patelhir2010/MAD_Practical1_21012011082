@@ -1,8 +1,8 @@
 fun main() {
-    val a = 5               // Int
-    val b = 5.9      // Double
-    val c = 'D'          // Char
-    val d = "hello"        // Boolean
+    val a = 5
+    val b = 5.9
+    val c = 'D'
+    val d = "hello"
     val e = true
     val f = 96.35
     val g = 783214556
