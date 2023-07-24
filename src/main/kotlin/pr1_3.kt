@@ -11,11 +11,11 @@ fun main(args: Array<String>) {
     println("Enter the student Batch: ")
     val Batch = readLine()!!
     println("Enter the student college name: ")
-    val college_name = readln()!!
+    val college_name = readLine()!!
     println("Enter the student University name: ")
     val University_name = readLine()!!
     println("Enter the student Age: ")
-    val Age = readln()!!.toInt()
+    val Age = readLine()!!.toInt()
 
     println("\n**************************\n")
 
